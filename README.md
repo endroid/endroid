@@ -1,4 +1,4 @@
-# Endroid
+# Jeroen van den Enden
 
 Senior Software Engineer at [Netvlies](https://www.netvlies.nl) :rocket:
 
