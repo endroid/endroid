@@ -1,6 +1,6 @@
 # Jeroen van den Enden
 
-Senior Software Engineer at [Netvlies](https://www.netvlies.nl) :rocket:
+Senior Software Engineer at [Netvlies](https://www.netvlies.nl) in Breda :rocket:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=endroid) 
 
